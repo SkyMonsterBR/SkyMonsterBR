@@ -1,8 +1,8 @@
 # 🙌 Hello, My Name Is Borges 🙌
 
-! [My Github Stats](https://github-readme-stats.vercel.app/api?username=SkyMonsterBR&show_icons=true&theme=dracula)
+(https://github-readme-stats.vercel.app/api?username=SkyMonsterBR&show_icons=true&theme=dracula)
 
-! [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/username=SkyMonsterBR&layout=compact&theme=dracula)
+(https://github-readme-stats.vercel.app/api/top-langs/username=SkyMonsterBR&layout=compact&theme=dracula)
 
 
 <p align="center">
